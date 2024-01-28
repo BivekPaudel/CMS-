@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+.Front-End\my-app\README.md
 
 # testing
 /coverage
